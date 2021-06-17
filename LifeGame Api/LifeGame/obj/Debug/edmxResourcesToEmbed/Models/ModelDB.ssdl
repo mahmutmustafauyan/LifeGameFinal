@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB03Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Epin">
+    <Key>
+      <PropertyRef Name="epinId" />
+    </Key>
+    <Property Name="epinId" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="epinKodu" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="epinAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="epinFiyat" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kayit">
+    <Key>
+      <PropertyRef Name="kayitId" />
+    </Key>
+    <Property Name="kayitId" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="kayitEpinId" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="kayitKullaniciId" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="kullaniciId" />
+    </Key>
+    <Property Name="kullaniciId" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="kullaniciNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="kullaniciAdsoyad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="kullaniciDogTarih" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Kayit_ToEpin">
+    <End Role="Epin" Type="Self.Epin" Multiplicity="1" />
+    <End Role="Kayit" Type="Self.Kayit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Epin">
+        <PropertyRef Name="epinId" />
+      </Principal>
+      <Dependent Role="Kayit">
+        <PropertyRef Name="kayitEpinId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kayit_ToKullanicilar">
+    <End Role="Kullanicilar" Type="Self.Kullanicilar" Multiplicity="1" />
+    <End Role="Kayit" Type="Self.Kayit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanicilar">
+        <PropertyRef Name="kullaniciId" />
+      </Principal>
+      <Dependent Role="Kayit">
+        <PropertyRef Name="kayitKullaniciId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB03ModelStoreContainer">
+    <EntitySet Name="Epin" EntityType="Self.Epin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kayit" EntityType="Self.Kayit" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanicilar" EntityType="Self.Kullanicilar" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Kayit_ToEpin" Association="Self.FK_Kayit_ToEpin">
+      <End Role="Epin" EntitySet="Epin" />
+      <End Role="Kayit" EntitySet="Kayit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kayit_ToKullanicilar" Association="Self.FK_Kayit_ToKullanicilar">
+      <End Role="Kullanicilar" EntitySet="Kullanicilar" />
+      <End Role="Kayit" EntitySet="Kayit" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

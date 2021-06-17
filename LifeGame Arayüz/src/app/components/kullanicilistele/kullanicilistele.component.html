@@ -1,0 +1,55 @@
+<div class="container">
+  <h1>Kullanıcılar Listesi</h1>
+  <h3 *ngIf="secEpin">
+    <b>Epin Kodu : </b> {{secEpin.epinKodu}} &nbsp;&nbsp;
+    <b>Epin Adı : </b> {{secEpin.epinAdi}} &nbsp;&nbsp;
+    <b>Epin Fiyat : </b>{{secEpin.epinFiyat}}
+  </h3>
+
+  <button mat-fab color="primary" matTooltip="Epin Listesi" [routerLink]="['/epin']">
+    <mat-icon aria-label="label">arrow_back</mat-icon>
+  </button>&nbsp;
+  <button mat-fab color="primary" matTooltip="Kullanicilar Ekle" (click)="Ekle()">
+    <mat-icon aria-label="label">person_add</mat-icon>
+  </button>
+  <p>&nbsp;</p>
+  <h3 style="color:red" *ngIf="kayitlar?.length==0">Henüz Kullanicilar Eklenmedi!</h3>
+  <mat-table [dataSource]="dataSource" matSort class="mat-elevation-z8">
+    <ng-container matColumnDef="kullaniciNo">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Kullanıcılar No
+      </mat-header-cell>
+      <mat-cell *matCellDef="let kayit"> {{kayit.kullaniciBilgi.kullaniciNo}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="kullaniciAdsoyad">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Adı Soyadı
+      </mat-header-cell>
+      <mat-cell *matCellDef="let kayit"> {{kayit.kullaniciBilgi.kullaniciAdsoyad}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="kullaniciDogTarih">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Doğum Tarihi
+      </mat-header-cell>
+      <mat-cell *matCellDef="let kayit"> {{kayit.kullaniciBilgi.kullaniciDogTarih}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="kullaniciEpinSayisi">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Epin Sayısı
+      </mat-header-cell>
+      <mat-cell *matCellDef="let kayit"> {{kayit.kullaniciBilgi.kullaniciEpinSayisi}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="islemler">
+      <mat-header-cell *matHeaderCellDef> İşlemler
+      </mat-header-cell>
+      <mat-cell *matCellDef="let kayit">
+
+        <button mat-icon-button color="warn" matTooltip="Kullanicilaryi Epinten Sil" (click)="Sil(kayit)">
+          <mat-icon aria-label="label">delete</mat-icon>
+        </button>
+
+      </mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+  </mat-table>
+  <mat-paginator [pageSizeOptions]="[10, 25,50, 100,500]" showFirstLastButtons>
+  </mat-paginator>
+
+</div>

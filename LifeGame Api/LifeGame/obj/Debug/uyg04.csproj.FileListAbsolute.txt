@@ -1,0 +1,118 @@
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\csc.exe
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\System.Collections.Immutable.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\System.Reflection.Metadata.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\vbc.exe
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe.config
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\uyg04.dll.config
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\uyg04.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\uyg04.pdb
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\EntityFramework.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\EntityFramework.SqlServer.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\Newtonsoft.Json.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\System.Net.Http.Formatting.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\System.Web.Http.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\System.Web.Http.WebHost.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\EntityFramework.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\EntityFramework.SqlServer.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\Newtonsoft.Json.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\System.Net.Http.Formatting.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\System.Web.Http.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\System.Web.Http.WebHost.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\obj\Debug\uyg04.csprojResolveAssemblyReference.cache
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\obj\Debug\uyg04.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\obj\Debug\uyg04.pdb
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\Microsoft.Web.Infrastructure.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\Swashbuckle.Core.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\WebActivatorEx.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\System.Web.Cors.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\System.Web.Http.Cors.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\uyg04\uyg04\bin\System.Web.Http.Cors.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\csc.exe
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\vbc.exe
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\uyg04.dll.config
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\uyg04.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\uyg04.pdb
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\EntityFramework.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\EntityFramework.SqlServer.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Newtonsoft.Json.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Swashbuckle.Core.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Net.Http.Formatting.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Cors.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.Cors.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.WebHost.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\WebActivatorEx.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\EntityFramework.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\EntityFramework.SqlServer.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Newtonsoft.Json.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Net.Http.Formatting.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.Cors.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.WebHost.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\obj\Debug\uyg04.csprojAssemblyReference.cache
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\obj\Debug\uyg04.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\obj\Debug\uyg04.csproj.CopyComplete
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\obj\Debug\uyg04.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\obj\Debug\uyg04.pdb
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\csc.exe
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\vbc.exe
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\uyg04.dll.config
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\uyg04.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\uyg04.pdb
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\EntityFramework.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\EntityFramework.SqlServer.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\Newtonsoft.Json.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\Swashbuckle.Core.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\System.Net.Http.Formatting.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\System.Web.Cors.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\System.Web.Http.Cors.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\System.Web.Http.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\System.Web.Http.WebHost.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\WebActivatorEx.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\EntityFramework.xml
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\EntityFramework.SqlServer.xml
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\Newtonsoft.Json.xml
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\System.Net.Http.Formatting.xml
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\System.Web.Http.xml
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\System.Web.Http.Cors.xml
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\bin\System.Web.Http.WebHost.xml
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\obj\Debug\uyg04.csprojAssemblyReference.cache
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\obj\Debug\uyg04.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\obj\Debug\uyg04.csproj.CopyComplete
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\obj\Debug\uyg04.dll
+C:\Users\Alper\Desktop\yedek\uyg04\uyg04\uyg04\obj\Debug\uyg04.pdb

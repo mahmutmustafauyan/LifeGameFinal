@@ -1,0 +1,24 @@
+<mat-toolbar color="primary" class="mat-elevation-z6">
+  <span>{{dialogBaslik}}</span>
+</mat-toolbar>
+<div class="container">
+  <form [formGroup]="frm">
+    <mat-form-field appearance="outline">
+      <mat-label>Epin Kodu</mat-label>
+      <input matInput placeholder="Epin Kodu" name="epinKodu" formControlName="epinKodu" required type="text">
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Epin Adı</mat-label>
+      <input matInput placeholder="Epin Adı" name="epinAdi" formControlName="epinAdi" required type="text">
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Epin Fiyat</mat-label>
+      <input matInput placeholder="Epin Fiyat" name="epinFiyat" formControlName="epinFiyat" required type="number">
+    </mat-form-field>
+  </form>
+
+  <button mat-raised-button color="primary" (click)="dialogRef.close(frm.value)"
+    [disabled]="frm.invalid">Kaydet</button>&nbsp;
+  <button mat-raised-button color="warn" (click)="dialogRef.close()">İptal</button>
+
+</div>

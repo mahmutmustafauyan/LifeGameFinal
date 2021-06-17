@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB03ModelStoreContainer" CdmEntityContainer="DB03Entities">
+    <EntitySetMapping Name="Epin">
+      <EntityTypeMapping TypeName="DB03Model.Epin">
+        <MappingFragment StoreEntitySet="Epin">
+          <ScalarProperty Name="epinFiyat" ColumnName="epinFiyat" />
+          <ScalarProperty Name="epinAdi" ColumnName="epinAdi" />
+          <ScalarProperty Name="epinKodu" ColumnName="epinKodu" />
+          <ScalarProperty Name="epinId" ColumnName="epinId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kayit">
+      <EntityTypeMapping TypeName="DB03Model.Kayit">
+        <MappingFragment StoreEntitySet="Kayit">
+          <ScalarProperty Name="kayitKullaniciId" ColumnName="kayitKullaniciId" />
+          <ScalarProperty Name="kayitEpinId" ColumnName="kayitEpinId" />
+          <ScalarProperty Name="kayitId" ColumnName="kayitId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kullanicilar">
+      <EntityTypeMapping TypeName="DB03Model.Kullanicilar">
+        <MappingFragment StoreEntitySet="Kullanicilar">
+          <ScalarProperty Name="kullaniciDogTarih" ColumnName="kullaniciDogTarih" />
+          <ScalarProperty Name="kullaniciAdsoyad" ColumnName="kullaniciAdsoyad" />
+          <ScalarProperty Name="kullaniciNo" ColumnName="kullaniciNo" />
+          <ScalarProperty Name="kullaniciId" ColumnName="kullaniciId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

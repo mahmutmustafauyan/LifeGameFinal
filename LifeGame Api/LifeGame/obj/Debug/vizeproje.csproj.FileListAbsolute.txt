@@ -1,0 +1,80 @@
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\csc.exe
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\vbc.exe
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\uyg04.dll.config
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\uyg04.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\uyg04.pdb
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\EntityFramework.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\EntityFramework.SqlServer.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Newtonsoft.Json.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Swashbuckle.Core.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Net.Http.Formatting.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Cors.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.Cors.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.WebHost.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\WebActivatorEx.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\EntityFramework.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\EntityFramework.SqlServer.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\Newtonsoft.Json.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Net.Http.Formatting.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.Cors.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\bin\System.Web.Http.WebHost.xml
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\obj\Debug\vizeproje.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\obj\Debug\vizeproje.csproj.CopyComplete
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\obj\Debug\uyg04.dll
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\obj\Debug\uyg04.pdb
+C:\Users\Alper\Desktop\uyg04\uyg04\uyg04\obj\Debug\vizeproje.csprojAssemblyReference.cache
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\csc.exe
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\vbc.exe
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\uyg04.dll.config
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\uyg04.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\uyg04.pdb
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\EntityFramework.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\Newtonsoft.Json.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\Swashbuckle.Core.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\System.Web.Cors.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\System.Web.Http.Cors.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\System.Web.Http.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\WebActivatorEx.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\EntityFramework.xml
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\Newtonsoft.Json.xml
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\System.Web.Http.xml
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\System.Web.Http.Cors.xml
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\obj\Debug\vizeproje.csproj.AssemblyReference.cache
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\obj\Debug\vizeproje.csproj.CoreCompileInputs.cache
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\obj\Debug\vizeproje.csproj.CopyComplete
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\obj\Debug\uyg04.dll
+C:\Users\Mahmut Mustafa Uyan\Desktop\uyg04\uyg04\uyg04\uyg04\obj\Debug\uyg04.pdb

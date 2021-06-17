@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB03Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DB03Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Epin" EntityType="DB03Model.Epin" />
+    <EntitySet Name="Kayit" EntityType="DB03Model.Kayit" />
+    <EntitySet Name="Kullanicilar" EntityType="DB03Model.Kullanicilar" />
+    <AssociationSet Name="FK_Kayit_ToEpin" Association="DB03Model.FK_Kayit_ToEpin">
+      <End Role="Epin" EntitySet="Epin" />
+      <End Role="Kayit" EntitySet="Kayit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kayit_ToKullanicilar" Association="DB03Model.FK_Kayit_ToKullanicilar">
+      <End Role="Kullanicilar" EntitySet="Kullanicilar" />
+      <End Role="Kayit" EntitySet="Kayit" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Epin">
+    <Key>
+      <PropertyRef Name="epinId" />
+    </Key>
+    <Property Name="epinId" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="epinKodu" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="epinAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="epinFiyat" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kayit" Relationship="DB03Model.FK_Kayit_ToEpin" FromRole="Epin" ToRole="Kayit" />
+  </EntityType>
+  <EntityType Name="Kayit">
+    <Key>
+      <PropertyRef Name="kayitId" />
+    </Key>
+    <Property Name="kayitId" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="kayitEpinId" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="kayitKullaniciId" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Epin" Relationship="DB03Model.FK_Kayit_ToEpin" FromRole="Kayit" ToRole="Epin" />
+    <NavigationProperty Name="Kullanicilar" Relationship="DB03Model.FK_Kayit_ToKullanicilar" FromRole="Kayit" ToRole="Kullanicilar" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="kullaniciId" />
+    </Key>
+    <Property Name="kullaniciId" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="kullaniciNo" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="kullaniciAdsoyad" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="kullaniciDogTarih" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kayit" Relationship="DB03Model.FK_Kayit_ToKullanicilar" FromRole="Kullanicilar" ToRole="Kayit" />
+  </EntityType>
+  <Association Name="FK_Kayit_ToEpin">
+    <End Type="DB03Model.Epin" Role="Epin" Multiplicity="1" />
+    <End Type="DB03Model.Kayit" Role="Kayit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Epin">
+        <PropertyRef Name="epinId" />
+      </Principal>
+      <Dependent Role="Kayit">
+        <PropertyRef Name="kayitEpinId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kayit_ToKullanicilar">
+    <End Type="DB03Model.Kullanicilar" Role="Kullanicilar" Multiplicity="1" />
+    <End Type="DB03Model.Kayit" Role="Kayit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanicilar">
+        <PropertyRef Name="kullaniciId" />
+      </Principal>
+      <Dependent Role="Kayit">
+        <PropertyRef Name="kayitKullaniciId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
